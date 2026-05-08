@@ -1,2 +1,0 @@
-# bluestar-facial
-index.html
